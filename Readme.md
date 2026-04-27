@@ -33,6 +33,7 @@
 ### ⚡ Systems & Tools
 - RabbitMQ (Message Queues)
 - Microservices Architecture
+- Redis
 - Docker (learning)
 - Git
 
@@ -85,7 +86,7 @@
 - Design microservices architecture  
 - Implement RAG pipelines  
 - Work with vector databases and embeddings  
-- Handle async systems (queues, streaming)  
+- Handle async systems (queues, streaming, caching, race condition)  
 
 ---
 
