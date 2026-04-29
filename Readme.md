@@ -2,7 +2,7 @@
 
 🚀 Backend & AI Developer  
 💡 Building scalable systems using RAG, Microservices, and Distributed Systems  
-📃 Portfolio - [visit my portfolio](https://my-portfolio-ncd939sxr-anas19257-6060s-projects.vercel.app)
+📃 Portfolio - 🔗[Link](https://my-portfolio-ncd939sxr-anas19257-6060s-projects.vercel.app)
 
 ---
 
