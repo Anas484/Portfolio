@@ -16,15 +16,24 @@
 
 ## 🛠️ Tech Stack
 
+### Language
+- Python
+- Java
+- Javascript/Typescript
+- Go (learning)
+
 ### 💻 Backend
 - Node.js, Express
-- TypeScript
+- Spring boot
+- FastApi
+- Django (learning)
 - REST APIs
 
 ### 🗄️ Databases
 - PostgreSQL (Prisma)
 - Qdrant (Vector DB)
-
+- MongoDB
+  
 ### 🤖 AI / Search
 - RAG (Retrieval-Augmented Generation)
 - Embeddings (Transformers)
@@ -35,7 +44,7 @@
 - Microservices Architecture
 - Redis
 - Docker (learning)
-- Git
+- Git/Github
 
 ---
 
