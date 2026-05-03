@@ -51,16 +51,9 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 AI Search Engine (RAG)
-👉 https://github.com/Anas484/SearchAI-SearchEngine
-
-- Built a semantic search engine using embeddings + vector DB  
-- Implemented async pipeline using RabbitMQ  
-- Integrated LLM (Gemini) for answer generation  
-
----
-
 ### 🎫 TicketGo – Microservices System
+👉 Live backend : https://ticketgo-nodejs.onrender.com
+👉 API docs : https://documenter.getpostman.com/view/45877419/2sBXqKofgu
 👉 https://github.com/Anas484/TicketGo-Nodejs-Microservices
 
 - Designed a **microservices-based ticket booking system**  
@@ -68,6 +61,18 @@
 - Focused on scalability and backend architecture  
 
 ---
+
+
+### 🔍 AI Search Engine (RAG)
+👉 https://github.com/Anas484/SearchAI-SearchEngine
+
+- Built a semantic search engine using embeddings + vector DB  
+- Implemented async pipeline using RabbitMQ  
+- Integrated LLM (Gemini) for answer generation  
+
+
+---
+
 
 ### 🚗 RideSafe – Ride Booking System (In Progress 🚧)
 👉 https://github.com/Anas484/RideSafe-Nodejs-Microservices
