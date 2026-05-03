@@ -54,7 +54,7 @@
 ### 🎫 TicketGo – Microservices System
 #### Live backend : https://ticketgo-nodejs.onrender.com
 #### API docs : https://documenter.getpostman.com/view/45877419/2sBXqKofgu
-#### https://github.com/Anas484/TicketGo-Nodejs-Microservices
+#### GitHub: https://github.com/Anas484/TicketGo-Nodejs-Microservices
 
 - Designed a **microservices-based ticket booking system**  
 - Implemented service separation and communication  
